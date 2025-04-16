@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2025-04-16T20:35:49.905310Z",
+  "analysis": [
+    {
+      "symbol": "EURUSD",
+      "currentPrice": 1.1394712924957275,
+      "yesterdayClose": 1.1339668035507202,
+      "pctChange": 0.4854
+    },
+    {
+      "symbol": "GBPUSD",
+      "currentPrice": 1.3234341144561768,
+      "yesterdayClose": 1.3174536228179932,
+      "pctChange": 0.4539
+    },
+    {
+      "symbol": "USDJPY",
+      "currentPrice": 142.12600708007812,
+      "yesterdayClose": 143.2209930419922,
+      "pctChange": -0.7645
+    },
+    {
+      "symbol": "USDCHF",
+      "currentPrice": 0.8134499788284302,
+      "yesterdayClose": 0.8159599900245667,
+      "pctChange": -0.3076
+    },
+    {
+      "symbol": "AUDUSD",
+      "currentPrice": 0.6374786496162415,
+      "yesterdayClose": 0.631991446018219,
+      "pctChange": 0.8682
+    },
+    {
+      "symbol": "USDCAD",
+      "currentPrice": 1.3873100280761719,
+      "yesterdayClose": 1.3899999856948853,
+      "pctChange": -0.1935
+    },
+    {
+      "symbol": "NZDUSD",
+      "currentPrice": 0.5936832427978516,
+      "yesterdayClose": 0.5866995453834534,
+      "pctChange": 1.1903
+    }
+  ],
+  "topGainer": {
+    "symbol": "NZDUSD",
+    "currentPrice": 0.5936832427978516,
+    "yesterdayClose": 0.5866995453834534,
+    "pctChange": 1.1903
+  },
+  "topLoser": {
+    "symbol": "USDJPY",
+    "currentPrice": 142.12600708007812,
+    "yesterdayClose": 143.2209930419922,
+    "pctChange": -0.7645
+  }
+}
